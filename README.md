@@ -1,5 +1,5 @@
 # Survey-of-Visual-Text-Processing
-The official project of paper "[Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing](https://arxiv.org/abs/2402.03082)"
+The official project of paper "[Visual Text Processing: A Comprehensive Review and Unified Evaluation](https://arxiv.org/abs/2504.21682 )"
 
 ![LOGO](logo.png)
 
@@ -172,10 +172,10 @@ This repository contains a paper collection of recent works for visual text proc
 If you are interested in it, please star our project! And cite our paper as follows:
 ```
 @article{shu2024visual,
-  title={Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing},
-  author={Shu, Yan and Zeng, Weichao and Li, Zhenhang and Zhao, Fangmin and Zhou, Yu},
-  journal={arXiv preprint arXiv:2402.03082},
-  year={2024}
+  title={Visual Text Processing: A Comprehensive Review and Unified Evaluation},
+  author={Yan Shu and Weichao Zeng and Fangmin Zhao and Zeyu Chen and Zhenhang Li and Xiaomeng Yang and Yu Zhou and Paolo Rota and Xiang Bai and Lianwen Jin and Xu-Cheng Yin and Nicu Sebe},
+  journal={arXiv preprint arXiv:2504.21682},
+  year={2025}
 }
 ```
 
