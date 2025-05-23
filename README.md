@@ -173,7 +173,7 @@ If you are interested in it, please star our project! And cite our paper as foll
 ```
 @article{shu2025visual,
   title={Visual Text Processing: A Comprehensive Review and Unified Evaluation},
-  author={Shu, Yan and Zeng, Weichao and Zhao, Fangmin and Chen, Zeyu and Li, Zhenhang and Yang, Xiaomeng and Zhou, Yu and Rota, Paolo and Bai, Xiang and Jin, Lianwen and others},
+  author={Shu, Yan and Zeng, Weichao and Zhao, Fangmin and Chen, Zeyu and Li, Zhenhang and Yang, Xiaomeng and Zhou, Yu and Rota, Paolo and Bai, Xiang and Jin, Lianwen and Yin Xu-Cheng and Sebe, Nicu},
   journal={arXiv preprint arXiv:2504.21682},
   year={2025}
 }
