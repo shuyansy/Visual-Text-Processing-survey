@@ -171,9 +171,9 @@ This repository contains a paper collection of recent works for visual text proc
 ### Cite
 If you are interested in it, please star our project! And cite our paper as follows:
 ```
-@article{shu2024visual,
+@article{shu2025visual,
   title={Visual Text Processing: A Comprehensive Review and Unified Evaluation},
-  author={Yan Shu and Weichao Zeng and Fangmin Zhao and Zeyu Chen and Zhenhang Li and Xiaomeng Yang and Yu Zhou and Paolo Rota and Xiang Bai and Lianwen Jin and Xu-Cheng Yin and Nicu Sebe},
+  author={Shu, Yan and Zeng, Weichao and Zhao, Fangmin and Chen, Zeyu and Li, Zhenhang and Yang, Xiaomeng and Zhou, Yu and Rota, Paolo and Bai, Xiang and Jin, Lianwen and others},
   journal={arXiv preprint arXiv:2504.21682},
   year={2025}
 }
