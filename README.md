@@ -138,7 +138,9 @@ This repository contains a paper collection of recent works for visual text proc
 + How Control Information Influences Multilingual Text Image Generation and Editing? (**2024 NIPS**) [paper](https://arxiv.org/pdf/2407.11502) [code](https://github.com/CyrilSterling/TextGen)
 + TextMaster: Universal Controllable Text Edit (**2024 arxiv**) [paper](https://arxiv.org/pdf/2410.09879)
 + AnyText2: Visual Text Generation and Editing With Customizable Attributes (**2024 arxiv**) [paper](https://arxiv.org/pdf/2411.15245) [code](https://github.com/tyxsspa/AnyText2)
-
++ Recognition-Synergistic Scene Text Editing (**2025 CVPR**) [paper](https://arxiv.org/pdf/2503.08387) [code](https://github.com/ZhengyaoFang/RS-STE) 
++ GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing (**2025 CVPR**) [paper](https://arxiv.org/pdf/2505.04915)
++ Type-R: Automatically Retouching Typos for Text-to-Image Generation(**2025 CVPR**) [paper](https://arxiv.org/pdf/2411.18159) [code](https://github.com/CyberAgentAILab/Type-R)
 
 ### Scene Text Generation
 + Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition (**2014 arxiv**) [paper](https://arxiv.org/pdf/1406.2227.pdf)
