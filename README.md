@@ -57,7 +57,6 @@ This repository contains a paper collection of recent works for visual text proc
 + Deep Unrestricted Document Image Rectification (**2023 TMM**) [paper](https://arxiv.org/pdf/2304.08796.pdf) [code](https://github.com/fh2019ustc/DocTr-Plus)
 + Layout-aware Single-image Document Flattening (**2023 TOG**) [paper](https://dl.acm.org/doi/abs/10.1145/3627818) [code](https://github.com/BunnySoCrazy/LA-DocFlatten)
 + Polar-Doc: One-Stage Document Dewarping with Multi-Scope Constraints under Polar Representation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2312.07925.pdf)
-+ Am I readable? Transfer learning based document image rectification (**2024 IJDAR**) [paper](https://link.springer.com/article/10.1007/s10032-024-00476-9)
 + DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction (**2023 WACV**) [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf) [code](https://github.com/irisXcoding/DocReal)
 + Rethinking Supervision in Document Unwarping: A Self-consistent Flow-free Approach (**2023 TCSVT**) [paper](https://ieeexplore.ieee.org/abstract/document/10327775)
 + Am I readable? Transfer learning based document image rectification (**2024 IJDAR**) [paper](https://link.springer.com/article/10.1007/s10032-024-00476-9)
