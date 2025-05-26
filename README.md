@@ -38,7 +38,7 @@ This repository contains a paper collection of recent works for visual text proc
 ### Document Image Dewarping
 + A Fast Page Outline Detection and Dewarping Method Based on Iterative Cut and Adaptive Coordinate Transform (**2019 ICDARW**) [paper](https://ieeexplore.ieee.org/abstract/document/8892891)
 + DocUNet: Document Image Unwarping via a Stacked U-Net （**2018 CVPR**）[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)
-+ DewarpNet: Single-Image Document Unwarping With Stacked 3D and 2D Regression Networks (**2019 ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Das_DewarpNet_Single-Image_Document_Unwarping_With_Stacked_3D_and_2D_Regression_ICCV_2019_paper.pdf) [code](https://www.cs.stonybrook.edu/%E2%88%BCcvl/dewarpnet.html)
++ DewarpNet: Single-Image Document Unwarping With Stacked 3D and 2D Regression Networks (**2019 ICCV**) [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Das_DewarpNet_Single-Image_Document_Unwarping_With_Stacked_3D_and_2D_Regression_ICCV_2019_paper.pdf) [code](https://www.cs.stonybrook.edu/%E2%88%BCcvl/dewarpnet.html)
 + Document rectification and illumination correction using a patch-based CNN (**2019 TOG**) [paper](https://dl.acm.org/doi/abs/10.1145/3355089.3356563)
 + Dewarping Document Image by Displacement Flow Estimation with Fully Convolutional Network (**2020 IAPR**) [paper](https://arxiv.org/pdf/2104.06815)
 + Geometric rectification of document images using adversarial gated unwarping network (**2020 PR**) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303794)
@@ -47,15 +47,21 @@ This repository contains a paper collection of recent works for visual text proc
 + Document Dewarping with Control Points (**2021 ICDAR**) [paper](https://link.springer.com/chapter/10.1007/978-3-030-86549-8_30) [paper](https://github.com/gwxie/Document-Dewarping-with-Control-Points)
 + DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction (**2021 ACM MM**) [paper](https://arxiv.org/pdf/2110.12942.pdf) [code](https://github.com/fh2019ustc/DocTr)
 + Revisiting Document Image Dewarping by Grid Regularization (**2022 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.pdf)
-+ Fourier Document Restoration for Robust Document Dewarping and Recognition ((**2022 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.html)
++ Fourier Document Restoration for Robust Document Dewarping and Recognition (**2022 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.html)
 + Learning an Isometric Surface Parameterization for Texture Unwrapping (**2022 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_33) [code](https://github.com/cvlab-stonybrook/Iso-UVField)
 + Geometric Representation Learning for Document Image Rectification (**2022 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_27)
 + Learning From Documents in the Wild to Improve Document Unwarping (**2022 SIGGRAPH**) [paper](https://dl.acm.org/doi/abs/10.1145/3528233.3530756) [code](https://github.com/cvlab-stonybrook/PaperEdge)
 + Marior: Margin Removal and Iterative Content Rectification for Document Dewarping in the Wild (**2023 ACM MM**) [paper](https://arxiv.org/pdf/2207.11515.pdf) [code](https://github.com/ZZZHANG-jx/Marior)
 + DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures (**2023 arxiv**) [paper](https://arxiv.org/pdf/2306.05749.pdf)
 + DocMAE: Document Image Rectification via Self-supervised Representation Learning (**2023 ICME***) [paper](https://arxiv.org/pdf/2304.10341.pdf)
-+ Deep Unrestricted Document Image Rectification  (**2023 arxiv**) [paper](https://arxiv.org/pdf/2304.08796.pdf) [code](https://github.com/fh2019ustc/DocTr-Plus)
++ Deep Unrestricted Document Image Rectification (**2023 TMM**) [paper](https://arxiv.org/pdf/2304.08796.pdf) [code](https://github.com/fh2019ustc/DocTr-Plus)
 + Layout-aware Single-image Document Flattening (**2023 TOG**) [paper](https://dl.acm.org/doi/abs/10.1145/3627818) [code](https://github.com/BunnySoCrazy/LA-DocFlatten)
++ Polar-Doc: One-Stage Document Dewarping with Multi-Scope Constraints under Polar Representation (**2023 arxiv**) [paper](https://arxiv.org/pdf/2312.07925.pdf)
++ Am I readable? Transfer learning based document image rectification (**2024 IJDAR**) [paper](https://link.springer.com/article/10.1007/s10032-024-00476-9)
++ DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction (**2023 WACV**) [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf) [code](https://github.com/irisXcoding/DocReal)
++ Rethinking Supervision in Document Unwarping: A Self-consistent Flow-free Approach (**2023 TCSVT**) [paper](https://ieeexplore.ieee.org/abstract/document/10327775)
++ Am I readable? Transfer learning based document image rectification (**2024 IJDAR**) [paper](https://link.springer.com/article/10.1007/s10032-024-00476-9)
++ Efficient Joint Rectification of Photometric and Geometric Distortions in Document Images (**2024 ICASSP**) [paper](https://ieeexplore.ieee.org/abstract/document/10447446)
 
   
 
@@ -80,7 +86,8 @@ This repository contains a paper collection of recent works for visual text proc
 + Mask-Guided Stamp Erasure for Real Document Image (**2023 ICME**) [paper](https://ieeexplore.ieee.org/abstract/document/10219771)
 + Document Image Shadow Removal Guided by Color-Aware Background (**2023 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Document_Image_Shadow_Removal_Guided_by_Color-Aware_Background_CVPR_2023_paper.pdf)
 + DocDiff: Document Enhancement via Residual Diffusion Models (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611730) [code](https://github.com/Royalvice/DocDiff)
-+ DocNLC: ADocument Image Enhancement Framework with Normalized and Latent Contrastive Representation for Multiple Degradations (**2024 AAAI**) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28366) [code](https://github.com/RylonW/DocNLC)
++ DocNLC: A Document Image Enhancement Framework with Normalized and Latent Contrastive Representation for Multiple Degradations (**2024 AAAI**) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28366) [code](https://github.com/RylonW/DocNLC)
++ DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks (**2024 CVPR**) [paper](https://arxiv.org/pdf/2405.04408.pdf) [code](https://github.com/ZZZHANG-jx/DocRes)
 
 
 ### Scene Text Removal
