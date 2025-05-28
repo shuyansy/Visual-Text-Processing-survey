@@ -42,7 +42,7 @@ This repository contains a paper collection of recent works for visual text proc
 + PEAN: A Diffusion-Based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution (**2024 ACM MM**) [paper](https://arxiv.org/abs/2311.17955) [code](https://github.com/jdfxzzy/PEAN)
 + Diffusion-based blind text image super-resolution (**2024 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Diffusion-based_Blind_Text_Image_Super-Resolution_CVPR_2024_paper.pdf) [code](https://github.com/YuzheZhang-1999/DiffTSR)
 + Diffusion-conditioned-diffusion model for scene text image super-resolution (**2024 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-031-72633-0_17)
-+ QT-TextSR: Enhancing scene text image super-resolution via efficient interaction with text recognition using a query-aware transformer (**2024 Neurocomputing**) [paper](QT-TextSR: Enhancing scene text image super-resolution via efficient interaction with text recognition using a query-aware transformer) [code](https://github.com/lcy0604/QT-TextSR)
++ QT-TextSR: Enhancing scene text image super-resolution via efficient interaction with text recognition using a query-aware transformer (**2024 Neurocomputing**) [paper](https://dl.acm.org/doi/10.1016/j.neucom.2024.129241) [code](https://github.com/lcy0604/QT-TextSR)
 
 
 
@@ -123,8 +123,9 @@ This repository contains a paper collection of recent works for visual text proc
 + Viteraser: Harnessing the power of vision transformers for scene text removal with segmim pretraining (**2023 arxiv**) [paper](https://arxiv.org/pdf/2306.12106) [code](https://github.com/shannanyinxiang/ViTEraser)
 + Progressive scene text erasing with self-supervision (**2023 CVIU**) [paper](https://arxiv.org/pdf/2207.11469.pdf)
 + What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties (**2023 TIP**) [paper](https://ieeexplore.ieee.org/abstract/document/10214243) [code](https://github.com/wangyuxin87/PERT)
++ PERT: A Progressively Region-based Network for Scene Text Removal (**2023 TIP**) [paper](https://ieeexplore.ieee.org/document/10214243) [code](https://github.com/wangyuxin87/PERT)
 + Selective scene text removal (**2023 BMVC**) [paper](https://arxiv.org/pdf/2309.00410.pdf) [code](https://github.com/mitanihayato/Selective-Scene-Text-Removal)
-
++ FETNet: Feature Erasing and Transferring Network for Scene Text Removal (**2023 PR**) [paper](https://arxiv.org/abs/2306.09593) [code](https://github.com/GuangtaoLyu/FETNet)
    
  
 
