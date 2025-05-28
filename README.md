@@ -16,6 +16,8 @@ This repository contains a paper collection of recent works for visual text proc
 
 ### Text Image Super-resolution
 + Boosting Optical Character Recognition: A Super-Resolution Approach (**2015 arxiv**) [paper](https://arxiv.org/pdf/1506.02211.pdf)
++ ICDAR2015 competition on Text Image Super-Resolution
+ (**2015 ICDAR**) [paper](https://ieeexplore.ieee.org/document/7333951)
 + Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (**2017 CVPR**) [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html)
 + TextSR: Content-Aware Text Super-Resolution Guided by Recognition (**2019 arxiv**) [paper](https://arxiv.org/pdf/1909.07113.pdf) [code](https://github.com/xieenze/TextSR)
 + Selective Super-Resolution for Scene Text Images (**2019 ICDAR**) [paper](https://ieeexplore.ieee.org/abstract/document/8977974)
@@ -31,8 +33,17 @@ This repository contains a paper collection of recent works for visual text proc
 + Text gestalt: Stroke-aware scene text image super-resolution (**2022 AAAI**) [paper](https://ojs.aaai.org/index.php/AAAI/article/download/19904/19663) [code](https://github.com/FudanVI/FudanOCR/tree/main/text-gestalt)
 + A Benchmark for Chinese-English Scene Text Image Super-Resolution (**2023 ICCV**) [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ma_A_Benchmark_for_Chinese-English_Scene_Text_Image_Super-Resolution_ICCV_2023_paper.html) [code](https://github.com/mjq11302010044/Real-CE)
 + Text Image Super-Resolution Guided by Text Structure and Embedding Priors (**2023 ACM MM**) [paper](https://dl.acm.org/doi/abs/10.1145/3595924)
++ Towards robust scene text image super-resolution via explicit location enhancement (**2023 ACM MM**) [paper](https://arxiv.org/pdf/2307.09749.pdf) [code](https://github.com/csguoh/LEMMA)
 + Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network (**2023 AAAI**) [paper](https://arxiv.org/pdf/2302.10414.pdf) [code](https://github.com/jdfxzzy/DPMN)
 + Learning Generative Structure Prior for Blind Text Image Super-Resolution (**2023 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Learning_Generative_Structure_Prior_for_Blind_Text_Image_Super-Resolution_CVPR_2023_paper.html) [code](https://github.com/csxmli2016/MARCONet)
++ Scene Text Image Super-resolution based on Text-conditional Diffusion Models (**2024 WACV**) [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Noguchi_Scene_Text_Image_Super-Resolution_Based_on_Text-Conditional_Diffusion_Models_WACV_2024_paper.pdf) [code](https://github.com/ToyotaInfoTech/stisr-tcdm)
++ GARDEN: Generative prior guided network for scene text image super-resolution (**2024 ICDAR**) [paper](https://link.springer.com/chapter/10.1007/978-3-031-70549-6_12)
++ Scene text image super-resolution through multi-scale interaction of structural and semantic priors (**2024 TAI**) [paper](https://ieeexplore.ieee.org/document/10473520)
++ PEAN: A Diffusion-Based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution (**2024 ACM MM**) [paper](https://arxiv.org/abs/2311.17955) [code](https://github.com/jdfxzzy/PEAN)
++ Diffusion-based blind text image super-resolution (**2024 CVPR**) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Diffusion-based_Blind_Text_Image_Super-Resolution_CVPR_2024_paper.pdf) [code](https://github.com/YuzheZhang-1999/DiffTSR)
++ Diffusion-conditioned-diffusion model for scene text image super-resolution (**2024 ECCV**) [paper](https://link.springer.com/chapter/10.1007/978-3-031-72633-0_17)
++ QT-TextSR: Enhancing scene text image super-resolution via efficient interaction with text recognition using a query-aware transformer (**2024 Neurocomputing**) [paper](https://dl.acm.org/doi/10.1016/j.neucom.2024.129241) [code](https://github.com/lcy0604/QT-TextSR)
+
 
 
 ### Document Image Dewarping
@@ -112,8 +123,9 @@ This repository contains a paper collection of recent works for visual text proc
 + Viteraser: Harnessing the power of vision transformers for scene text removal with segmim pretraining (**2023 arxiv**) [paper](https://arxiv.org/pdf/2306.12106) [code](https://github.com/shannanyinxiang/ViTEraser)
 + Progressive scene text erasing with self-supervision (**2023 CVIU**) [paper](https://arxiv.org/pdf/2207.11469.pdf)
 + What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties (**2023 TIP**) [paper](https://ieeexplore.ieee.org/abstract/document/10214243) [code](https://github.com/wangyuxin87/PERT)
++ PERT: A Progressively Region-based Network for Scene Text Removal (**2023 TIP**) [paper](https://ieeexplore.ieee.org/document/10214243) [code](https://github.com/wangyuxin87/PERT)
 + Selective scene text removal (**2023 BMVC**) [paper](https://arxiv.org/pdf/2309.00410.pdf) [code](https://github.com/mitanihayato/Selective-Scene-Text-Removal)
-
++ FETNet: Feature Erasing and Transferring Network for Scene Text Removal (**2023 PR**) [paper](https://arxiv.org/abs/2306.09593) [code](https://github.com/GuangtaoLyu/FETNet)
    
  
 
