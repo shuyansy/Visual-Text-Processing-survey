@@ -7,6 +7,9 @@ This repository contains a paper collection of recent works for visual text proc
 
 ## 📚 VTPBench
 ![LOGO](vtpbench_2.png)
+We propose VTPBench, a multi-task benchmark comprising 4,305 samples across six sub-tasks, specifically designed to evaluate six visual text processing tasks.
+
+VTPBech utilizes GPT-4 as the evaluation method, which provides an easy implementation for unified VTP evaluation. 
 
 ## 📖 Table of Contents 👀
 - [Text Image Super-resolution](#text-image-Super-resolution)
