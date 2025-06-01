@@ -5,6 +5,9 @@ The official project of paper "[Visual Text Processing: A Comprehensive Review a
 
 This repository contains a paper collection of recent works for visual text processing tasks.
 
+## 📚 VTPBench
+![LOGO](vtpbench_2.png)
+
 ## 📖 Table of Contents 👀
 - [Text Image Super-resolution](#text-image-Super-resolution)
 - [Document Image Dewarping](#Document-Image-Dewarping)
