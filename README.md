@@ -15,8 +15,14 @@ We release the dataset of VTPBench in [Data](https://huggingface.co/datasets/sy1
 ### Evaluation
 VTPBech utilizes GPT-4 as the evaluation method, which provides an easy implementation for unified VTP evaluation. Please see the evaluation code [here](VTP_Bench). 
 
-First, infer your visual text processing models (e.g., Scene Text Removal Models) on the provided dataset. Then concatenate the predicted one with the GT, like the [examples](VTP_Bench/STR/STR_data
-/viteraser) we provide. 
+(1) Infer your visual text processing models (e.g., Scene Text Removal Models) on the provided dataset. Then, concatenate the predicted one with the GT, like the [examples](VTP_Bench/STR/STR_data/viteraser) we provide. 
+
+(2) Run the following code to get evaluation results.
+```bash
+cd STR
+python gpt_str.py
+python get_str_score.py
+```
 
 ## 📖 Table of Contents 👀
 - [Text Image Super-resolution](#text-image-Super-resolution)
