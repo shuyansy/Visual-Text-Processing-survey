@@ -7,12 +7,16 @@ This repository contains a paper collection of recent works for visual text proc
 
 ## 📚 VTPBench
 ![LOGO](vtpbench_2.png)
-We propose VTPBench, a multi-task benchmark comprising 4,305 samples across six sub-tasks, specifically designed to evaluate six visual text processing tasks.
+We propose VTPBench, a multi-task benchmark comprising 4,305 samples across six visual text processing tasks.
 
 ### Dataset
 We release the dataset of VTPBench in [Data](https://huggingface.co/datasets/sy1998/VTP_Bench)
 
+### Evaluation
 VTPBech utilizes GPT-4 as the evaluation method, which provides an easy implementation for unified VTP evaluation. Please see the evaluation code [here](VTP_Bench). 
+
+First, infer your visual text processing models (e.g., Scene Text Removal Models) on the provided dataset. Then concatenate the predicted one with the GT, like the [examples](VTP_Bench/STR/STR_data
+/viteraser) we provide. 
 
 ## 📖 Table of Contents 👀
 - [Text Image Super-resolution](#text-image-Super-resolution)
