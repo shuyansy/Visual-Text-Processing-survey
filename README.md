@@ -210,6 +210,7 @@ python get_str_score.py
 + Visual Text Generation in the Wild (**2024 ECCV**) [paper](https://arxiv.org/pdf/2407.14138.pdf) [code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/OCR/SceneVTG)
 + One-Shot Diffusion Mimicker for Handwritten Text Generation (**2024 ECCV**) [paper](https://arxiv.org/pdf/2409.04004.pdf) [code](https://github.com/dailenson/One-DM)
 + Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation (**2025 arxiv**) [paper](https://arxiv.org/pdf/2501.05892.pdf)
++ FonTS: Text Rendering with Typography and Style Controls (**2025 arxiv**) [paper](https://arxiv.org/pdf/2412.00136)
 + TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis (**2025 arxiv**) [paper](https://arxiv.org/pdf/2505.17778.pdf) [code](https://github.com/yyyyyxie/textflux)
 + Seedream 2.0: A Native Chinese-English Bilingual Image Generation Foundation Model (**2025 arxiv**) [paper](https://arxiv.org/pdf/2503.07703.pdf)
 + GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models (**2025 AAAI**) [paper](https://arxiv.org/pdf/2407.02252.pdf) [code](https://github.com/OPPO-Mente-Lab/GlyphDraw2)
