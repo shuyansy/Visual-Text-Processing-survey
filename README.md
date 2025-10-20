@@ -178,6 +178,7 @@ python get_str_score.py
 + Recognition-Synergistic Scene Text Editing (**2025 CVPR**) [paper](https://arxiv.org/pdf/2503.08387) [code](https://github.com/ZhengyaoFang/RS-STE) 
 + GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing (**2025 CVPR**) [paper](https://arxiv.org/pdf/2505.04915)
 + Type-R: Automatically Retouching Typos for Text-to-Image Generation(**2025 CVPR**) [paper](https://arxiv.org/pdf/2411.18159) [code](https://github.com/CyberAgentAILab/Type-R)
++ FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing (**2025 arxiv**) [paper](https://arxiv.org/abs/2505.03329) [code](https://amap-ml.github.io/FLUX-text/)
 
 ### Scene Text Generation
 + Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition (**2014 arxiv**) [paper](https://arxiv.org/pdf/1406.2227.pdf)
